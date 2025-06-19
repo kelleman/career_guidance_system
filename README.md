@@ -1,6 +1,8 @@
-# 🎓 Career Guidance System
+# 🎓 Career Guidance Expert System
 
-A simple, responsive web application built with **PHP**, **Bootstrap**, and **CSS**, designed to guide students in selecting the most suitable career paths based on their interests and abilities.
+A simple, responsive web application built with **PHP**, **Bootstrap**, and **CSS**, The Career Guidance Expert System is an intelligent web-based application designed to assist secondary school students in Nigeria in identifying suitable university programmes and career paths. By analyzing students’ best subjects, learning styles, work preferences, leadership qualities, and interests, the system uses a rule-based expert engine to generate personalized career recommendations.
+
+This system simplifies the decision-making process for students by mapping their academic strengths and personality traits to relevant career options in fields such as Science, Technology, Arts, Business, and Health. It aims to bridge the gap between academic performance and future career choices, ensuring students make informed decisions aligned with their strengths and aspirations.
 
 ## 🚀 Features
 
